@@ -6,7 +6,7 @@ Following Catlike Coding's Unity basics tutorials.
 
 Done so far:
 - [x] GameObjects and Scripts
-- [ ] Building a Graph
+- [x] Building a Graph
 - [ ] Mathmatical Surfaces
 - [ ] Measuring Performance
 - [ ] Compute Shaders
