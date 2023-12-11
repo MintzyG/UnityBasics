@@ -1,9 +1,10 @@
 # UnityBasics
 
+I'm using this to work towards starting Catlike Coding's Rendering series to then start to branch out in to Graphis programming.
+
 Following Catlike Coding's Unity basics tutorials.
 
 Done so far:
-
 - [x] GameObjects and Scripts
 - [ ] Building a Graph
 - [ ] Mathmatical Surfaces
@@ -12,4 +13,4 @@ Done so far:
 - [ ] Jobs
 - [ ] Organic Variety
 
-I'm using this to work towards starting Catlike Coding's Rendering series to then start to branch out in to Graphis programming.
+
